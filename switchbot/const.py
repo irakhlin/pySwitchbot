@@ -39,6 +39,7 @@ class SwitchbotModel(StrEnum):
     BOT = "WoHand"
     CURTAIN = "WoCurtain"
     HUMIDIFIER = "WoHumi"
+    HUMIDIFIER_2 = "WoHumi2"
     PLUG_MINI = "WoPlug"
     CONTACT_SENSOR = "WoContact"
     LIGHT_STRIP = "WoStrip"
